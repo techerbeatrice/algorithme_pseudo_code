@@ -13,6 +13,6 @@ _Début acheter (argent, prix)_
       Tant que prix =< argent
       maximumBonbon (entier inférieur) ← argent / prix
       Fin tant que
-      retourner acheter
+   
 
 _Fin acheter_
