@@ -10,7 +10,7 @@ _Début acheter (argent, prix)_
             Retourner 0
       Fin Si
 
-      Tant que prix =< argent
+      Tant que prix <= argent
       maximumBonbon (entier inférieur) ← argent / prix
       Fin tant que
    
